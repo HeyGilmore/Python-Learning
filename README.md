@@ -27,7 +27,7 @@ My goal is to build a strong foundation in Python programming while developing g
 
 | Chapter | Topic | Status |
 |----------|---------|---------|
-| 1 | Getting Started | ⬜ |
+| 1 | Getting Started | ✅ |
 | 2 | Variables and Simple Data Types | ⬜ |
 | 3 | Introducing Lists | ⬜ |
 | 4 | Working with Lists | ⬜ |
