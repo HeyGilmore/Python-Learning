@@ -44,15 +44,3 @@ June 19, 2026
 10. Lists are one of the most important data structures in Python.
 
 
-## Most Important Takeaways
-
-1. Lists store multiple values in one variable.
-2. Indexes start at 0.
-3. `append()` adds items.
-4. `pop()` removes and returns items.
-5. `remove()` deletes by value.
-6. `sort()` changes the list permanently.
-7. `sorted()` creates a temporary sorted view.
-8. `len()` returns the number of items.
-9. Index errors occur when accessing positions that don't exist.
-10. Lists are one of the most important data structures in Python.
